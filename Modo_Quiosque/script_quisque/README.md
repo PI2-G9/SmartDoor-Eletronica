@@ -1,3 +1,5 @@
+## Teste tutorial e utilização Quiosque
+
 Esse script será responsável por iniciar o Chromium e simular o acionamento das teclas. Para criar o script foi executado o seguinte comando:
 
 ```nano /home/pi/kiosk.sh```
