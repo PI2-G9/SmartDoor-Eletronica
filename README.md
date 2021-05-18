@@ -1,3 +1,9 @@
 ## Repositório Eletrônica
 
-Códigos utilizados nos modulos Lepton 2.5, Raspberry Camera V2, Display Raspberry e RFID.
+# Estrutura:
+
+* Módulos: Instalação e teste dos módulos utilizados (Linguagem Python).
+* Modo Quiosque: Instalação e teste do modo quioesque (Linguagem Python).
+* Teste: Teste do sistema completo (Linguagem Python).
+
+
